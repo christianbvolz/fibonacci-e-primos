@@ -1,0 +1,1 @@
+Este repositório contém um script JavaScript que implementa duas funções para calcular a sequência de Fibonacci e uma função para encontrar números primos. As funções foram criadas para atender aos requisitos de um desafio técnico de um processo seletivo.
